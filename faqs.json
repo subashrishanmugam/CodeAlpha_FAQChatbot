@@ -1,0 +1,13 @@
+[
+ {"q": "What is the internship duration?", "a": "The internship runs for the period mentioned in your offer letter. Complete the assigned tasks within that time frame."},
+ {"q": "How many tasks do I need to complete?", "a": "You must complete a minimum of 2 out of the 4 tasks to be eligible for the certificate."},
+ {"q": "Will I get a certificate?", "a": "Yes. A QR-verified completion certificate and a unique ID certificate are given after completing at least two tasks."},
+ {"q": "Will I get an offer letter?", "a": "Yes, an internship offer letter is provided to all interns."},
+ {"q": "Is there a letter of recommendation?", "a": "A letter of recommendation is provided based on your performance."},
+ {"q": "How do I submit my tasks?", "a": "Submit through the submission form shared in your WhatsApp group. Submissions outside the form are not accepted."},
+ {"q": "What should the GitHub repository be named?", "a": "Name it CodeAlpha_ProjectName, for example CodeAlpha_FAQChatbot."},
+ {"q": "Do I need to post on LinkedIn?", "a": "Yes. Share your internship status tagging CodeAlpha, and post a video explanation of your project with the GitHub link."},
+ {"q": "What happens if I submit only one task?", "a": "Submitting only one task is considered incomplete and the certificate will not be issued."},
+ {"q": "How can I contact CodeAlpha?", "a": "Email services@codealpha.tech or visit www.codealpha.tech."},
+ {"q": "Is there placement support?", "a": "Yes, job opportunities and placement support, along with resume building support, are part of the perks."}
+]
